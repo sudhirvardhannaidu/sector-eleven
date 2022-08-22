@@ -1,8 +1,14 @@
-        red
-        blue
+
+	red
+	blue
 	green
-        yellow
-        pink
+	yellow
+	pink
+  red
+  blue
+	green
+  yellow
+  pink
 	white
 	black
 	purple
