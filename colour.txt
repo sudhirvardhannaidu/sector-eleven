@@ -3,3 +3,6 @@
 	yellow
 	pink
 	white
+	black
+	purple
+	orange
